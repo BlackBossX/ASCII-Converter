@@ -1,5 +1,5 @@
 print("--------------------------------------------------")
-print("     ASCII Convector                   ")
+print("     ASCII Convertor                   ")
 print("         by BlackBossX                            ")
 print("             Visit for more: www.blackboss.xyz    ")
 print("--------------------------------------------------")
